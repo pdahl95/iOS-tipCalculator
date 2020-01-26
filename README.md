@@ -2,9 +2,9 @@
 
 **Tip Calculator** is a tip calculator application for iOS.
 
-Submitted by: **Pernille Dahl **
+Submitted by: **Pernille Dahl**
 
-Time spent: **2** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
